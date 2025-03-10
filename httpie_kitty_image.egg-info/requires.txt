@@ -1,3 +1,0 @@
-httpie
-pillow
-term-image

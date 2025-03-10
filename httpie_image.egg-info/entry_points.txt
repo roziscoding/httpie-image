@@ -1,2 +1,0 @@
-[httpie.plugins.converter.v1]
-httpie_image = httpie_image:ImagePlugin
