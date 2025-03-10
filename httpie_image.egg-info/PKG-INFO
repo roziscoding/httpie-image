@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: httpie-image
+Version: 1.0.0
+Summary: iTerm2 image display plugin for HTTPie.
+Home-page: https://github.com/banteg/httpie-image
+Author: banteg
+Requires-Dist: httpie
+Requires-Dist: pillow
+Requires-Dist: term-image
+Dynamic: author
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: summary

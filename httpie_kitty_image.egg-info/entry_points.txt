@@ -1,0 +1,2 @@
+[httpie.plugins.converter.v1]
+httpie_kitty_image = httpie_kitty_image:ImagePlugin

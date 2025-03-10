@@ -1,0 +1,8 @@
+httpie_kitty_image.py
+setup.py
+httpie_kitty_image.egg-info/PKG-INFO
+httpie_kitty_image.egg-info/SOURCES.txt
+httpie_kitty_image.egg-info/dependency_links.txt
+httpie_kitty_image.egg-info/entry_points.txt
+httpie_kitty_image.egg-info/requires.txt
+httpie_kitty_image.egg-info/top_level.txt

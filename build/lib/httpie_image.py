@@ -4,14 +4,14 @@ import io
 from httpie.plugins import ConverterPlugin
 from httpie.output.streams import BinarySuppressedError
 from PIL import Image
-from term_image.image import AutoImage
+from term_image.image import KittyImage
 
 class ImagePlugin(ConverterPlugin):
 
     def convert(self, content_bytes):
         bytes = io.BytesIO(content_bytes)
         img = Image.open(bytes)
-        image = AutoImage(img)
+        image = KittyImage(img)
         image.draw()
         return 'image/*', ''
 
